@@ -294,3 +294,91 @@ table a {
     max-width: 800px;
     padding: 0 20px;
 }
+
+.edit_services {
+    max-width: 300px;             
+    margin: 20px auto;       
+    padding: 30px;                
+    background-color: #18181b;     
+    border: 1px solid #374151;     
+    border-radius: 8px;            
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.edit_services h2 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0; 
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.edit_services label {
+    display: block;
+    color: #9ca3af;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.edit_services input {
+    display: block;
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #374151;
+    background-color: #1f1f23;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.edit_services textarea {
+    display: block;
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #374151;
+    background-color: #1f1f23;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.edit_services input:focus {
+    outline: none;
+    border-color: #4b5563;
+}
+
+.edit_services button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: #2563eb;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.edit_services select {
+    background-color: #18181b;
+    border: 1px solid #374151;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+.edit_services select:hover {
+    border-color: #4b5563;
+    background-color: #1f1f23;
+}
+
+.edit_services button:hover {
+    background-color: #1e40af;
+    box-shadow: 0 6px 14px rgba(66, 67, 68, 0.35);
+    transform: scale(1.03);
+}
