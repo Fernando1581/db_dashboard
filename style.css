@@ -382,3 +382,242 @@ table a {
     box-shadow: 0 6px 14px rgba(66, 67, 68, 0.35);
     transform: scale(1.03);
 }
+
+.booking p {
+    text-align: right;           
+    margin: 0 auto 10px auto;    
+    max-width: 800px;
+    padding: 0 20px;
+}
+
+.create_booking {
+    max-width: 300px;             
+    margin: 20px auto;       
+    padding: 30px;                
+    background-color: #18181b;     
+    border: 1px solid #374151;     
+    border-radius: 8px;            
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.create_booking h2 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0; 
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.create_booking label {
+    display: block;
+    color: #9ca3af;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.create_booking input {
+    display: block;
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #374151;
+    background-color: #1f1f23;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.create_booking input:focus {
+    outline: none;
+    border-color: #4b5563;
+}
+
+.create_booking button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: #2563eb;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.create_booking select {
+    background-color: #18181b;
+    border: 1px solid #374151;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+.create_booking select:hover {
+    border-color: #4b5563;
+    background-color: #1f1f23;
+}
+
+.create_booking button:hover {
+    background-color: #1e40af;
+    box-shadow: 0 6px 14px rgba(66, 67, 68, 0.35);
+    transform: scale(1.03);
+}
+
+.pay_process {
+    max-width: 300px;             
+    margin: 20px auto;       
+    padding: 30px;                
+    background-color: #18181b;     
+    border: 1px solid #374151;     
+    border-radius: 8px;            
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.pay_process h2 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0; 
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.pay_process label {
+    display: block;
+    color: #9ca3af;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.pay_process input {
+    display: block;
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #374151;
+    background-color: #1f1f23;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.pay_process input:focus {
+    outline: none;
+    border-color: #4b5563;
+}
+
+.pay_process button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: #2563eb;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.pay_process select {
+    background-color: #18181b;
+    border: 1px solid #374151;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+.pay_process select:hover {
+    border-color: #4b5563;
+    background-color: #1f1f23;
+}
+
+.pay_process button:hover {
+    background-color: #1e40af;
+    box-shadow: 0 6px 14px rgba(66, 67, 68, 0.35);
+    transform: scale(1.03);
+}
+
+.assign_tool {
+    max-width: 300px;             
+    margin: 20px auto;       
+    padding: 30px;                
+    background-color: #18181b;     
+    border: 1px solid #374151;     
+    border-radius: 8px;            
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.assign_tool h3 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0; 
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.assign_tool label {
+    display: block;
+    color: #9ca3af;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.assign_tool input {
+    display: block;
+    width: 92%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #374151;
+    background-color: #1f1f23;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.assign_tool input:focus {
+    outline: none;
+    border-color: #4b5563;
+}
+
+.assign_tool button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: #2563eb;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.assign_tool select {
+    background-color: #18181b;
+    border: 1px solid #374151;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+.assign_tool select:hover {
+    border-color: #4b5563;
+    background-color: #1f1f23;
+}
+
+.assign_tool button:hover {
+    background-color: #1e40af;
+    box-shadow: 0 6px 14px rgba(66, 67, 68, 0.35);
+    transform: scale(1.03);
+}
+
+.message {
+    text-align: center;
+}
